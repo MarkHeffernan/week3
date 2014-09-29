@@ -1,0 +1,31 @@
+Body
+{
+background-image:url('pg.png');
+font-family:Veranda;
+color:grey;
+
+} /*end of body*/
+
+h1
+{
+font-size:42pt;
+text-shadow: 2px 2px #ff0000;
+}
+
+h2
+{
+font-size:36pt;
+text-shadow: 2px 2px brown;
+}
+
+h3
+{
+font-size:32pt;
+text-shadow: 2px 2px green;
+}
+
+h4
+{
+font-size:26pt;
+text-shadow: 2px 2px grey;
+}
